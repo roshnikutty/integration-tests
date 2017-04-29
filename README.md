@@ -1,7 +1,4 @@
-Shopping list v5
-================
 
-https://github.com/Thinkful-Ed/node-shopping-list-v5
 
 * Serves client that:
     + makes AJAX calls back to API endpoints to initially retrieve and display existing recipes and shopping list.
